@@ -21,3 +21,4 @@
 - **Bob Brown - [@github-username](https://github.com/github-username)** - Backend Developer
 - **Charlie Davis - [@github-username](https://github.com/github-username)** - DevOps Engineer
 - **Diana Evans - [@github-username](https://github.com/github-username)** - QA Engineer
+- **Divine Udise - [@Divine-offishal](https://github.com/Divine-offishal)** - Frontend Developer
