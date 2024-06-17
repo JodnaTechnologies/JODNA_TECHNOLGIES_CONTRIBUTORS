@@ -8,7 +8,7 @@
 
 ### Project Manager
 
-- **Opusunju Moses - [@github-username](https://github.com/github-username)**
+- **Opusunju Moses - [@Mozibix](https://github.com/Mozibix)**
 
 ### Team Leads
 
