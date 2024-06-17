@@ -12,7 +12,7 @@
 
 ### Team Leads
 
-- **John Doe - [@github-username](https://github.com/github-username)** - Frontend Lead
+- **Emmanuel Oyeyinka - [@github-username](https://github.com/loyalthedev)** - Frontend Lead
 - **Jane Smith - [@github-username](https://github.com/github-username)** - Backend Lead
 
 ### Team Members
