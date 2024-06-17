@@ -22,3 +22,4 @@
 - **Charlie Davis - [@github-username](https://github.com/github-username)** - DevOps Engineer
 - **Diana Evans - [@github-username](https://github.com/github-username)** - QA Engineer
 - **Ben Daniel - [@github-username](https://github.com/github-username)** - Frontend Developer
+- **Divine Udise - [@Divine-offishal](https://github.com/Divine-offishal)** - Frontend Developer
