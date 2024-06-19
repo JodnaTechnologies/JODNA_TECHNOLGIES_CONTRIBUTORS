@@ -12,7 +12,7 @@
 
 ### Team Leads
 
-- **Emmanuel Oyeyinka - [@github-username](https://github.com/loyalthedev)** - Frontend Lead
+- **Emmanuel Oyeyinka - [@loyalthedev](https://github.com/loyalthedev)** - Frontend Lead
 
 ### Team Members
 
