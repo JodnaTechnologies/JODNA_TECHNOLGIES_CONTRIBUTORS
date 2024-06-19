@@ -17,7 +17,7 @@
 
 ### Team Members
 
-- **Alice Johnson - [@github-username](https://github.com/github-username)** - Frontend Developer
+- ** Francisca Chibuike - [@github-username](https://github.com/Franciscaa11)** - Frontend Developer
 - **Bob Brown - [@github-username](https://github.com/github-username)** - Backend Developer
 - **Charlie Davis - [@github-username](https://github.com/github-username)** - DevOps Engineer
 - **Diana Evans - [@github-username](https://github.com/github-username)** - QA Engineer
