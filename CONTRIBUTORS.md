@@ -13,6 +13,7 @@
 ### Team Leads
 
 - **Emmanuel Oyeyinka - [@loyalthedev](https://github.com/loyalthedev)** - Frontend Lead
+- **Miracle Apata - [@prmpsmart](https://github.com/prmpsmart)** - Backend Lead
 
 ### Team Members
 
