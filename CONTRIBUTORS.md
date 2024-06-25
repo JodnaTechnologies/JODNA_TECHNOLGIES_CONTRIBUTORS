@@ -14,9 +14,11 @@
 
 - **Emmanuel Oyeyinka - [@loyalthedev](https://github.com/loyalthedev)** - Frontend Lead
 - **Miracle Apata - [@prmpsmart](https://github.com/prmpsmart)** - Backend Lead
+- **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Designer Lead
 
 ### Team Members
 
 - **Divine Udise - [@Divine-offishal](https://github.com/Divine-offishal)** - Frontend Developer
 - **Adekunle Samuel - [@weird-samuel](https://github.com/weird-samuel)** - Frontend Developer
 - **Ben Daniel - [@Dhanielgeek](https://github.com/Dhanielgeek)** - Frontend Developer
+- **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
