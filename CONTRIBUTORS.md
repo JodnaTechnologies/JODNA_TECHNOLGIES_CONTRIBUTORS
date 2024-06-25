@@ -14,7 +14,6 @@
 
 - **Emmanuel Oyeyinka - [@loyalthedev](https://github.com/loyalthedev)** - Frontend Lead
 - **Miracle Apata - [@prmpsmart](https://github.com/prmpsmart)** - Backend Lead
-- **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Designer Lead
 
 ### Team Members
 
