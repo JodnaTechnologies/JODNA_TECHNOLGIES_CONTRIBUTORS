@@ -20,4 +20,6 @@
 - **Divine Udise - [@Divine-offishal](https://github.com/Divine-offishal)** - Frontend Developer
 - **Adekunle Samuel - [@weird-samuel](https://github.com/weird-samuel)** - Frontend Developer
 - **Ben Daniel - [@Dhanielgeek](https://github.com/Dhanielgeek)** - Frontend Developer
+- **Francisca Chibuike- [@franciscaa11](https://github.com/franciscaa11)** - Frontend Developer
 - **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
+
