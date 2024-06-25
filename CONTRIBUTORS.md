@@ -12,12 +12,11 @@
 
 ### Team Leads
 
-- **Emmanuel Oyeyinka - [@github-username](https://github.com/loyalthedev)** - Frontend Lead
-- **Jane Smith - [@github-username](https://github.com/github-username)** - Backend Lead
+- **Emmanuel Oyeyinka - [@loyalthedev](https://github.com/loyalthedev)** - Frontend Lead
+- **Miracle Apata - [@prmpsmart](https://github.com/prmpsmart)** - Backend Lead
 
 ### Team Members
 
-- ** Francisca Chibuike - [@github-username](https://github.com/Franciscaa11)** - Frontend Developer
-- **Bob Brown - [@github-username](https://github.com/github-username)** - Backend Developer
-- **Charlie Davis - [@github-username](https://github.com/github-username)** - DevOps Engineer
-- **Diana Evans - [@github-username](https://github.com/github-username)** - QA Engineer
+- **Divine Udise - [@Divine-offishal](https://github.com/Divine-offishal)** - Frontend Developer
+- **Adekunle Samuel - [@weird-samuel](https://github.com/weird-samuel)** - Frontend Developer
+- **Ben Daniel - [@Dhanielgeek](https://github.com/Dhanielgeek)** - Frontend Developer
