@@ -23,4 +23,5 @@
 - **Kowei Donald - [@dhonnie04](https://github.com/dhonnie04)** - Frontend Developer
 - **Francisca Chibuike- [@franciscaa11](https://github.com/franciscaa11)** - Frontend Developer
 - **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
+- **Vivian Nzemeke - [@vivi](https://github.com/vivinero)** - Backend Developer
 
