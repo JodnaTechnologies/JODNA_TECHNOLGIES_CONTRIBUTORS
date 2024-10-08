@@ -25,3 +25,4 @@
 - **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
 - **Vivian Nzemeke - [@vivi](https://github.com/vivinero)** - Backend Developer
 
+- **Okeugo Joshua - [@ManifestJosh](https://github.com/ManifestJosh)** - Mobile Dveloper Intern
