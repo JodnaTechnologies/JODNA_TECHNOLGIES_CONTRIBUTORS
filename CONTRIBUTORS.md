@@ -24,4 +24,4 @@
 - **Francisca Chibuike- [@franciscaa11](https://github.com/franciscaa11)** - Frontend Developer
 - **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
 - **Vivian Nzemeke - [@vivi](https://github.com/vivinero)** - Backend Developer
-
+- **Alfred Faith - [@TonyFred-code](https://github.com/TonyFred-code/)** - Frontend Developer
