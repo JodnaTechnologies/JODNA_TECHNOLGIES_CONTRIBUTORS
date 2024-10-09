@@ -27,6 +27,7 @@
 - **Ademola Samuel Omikunle - [@Demostat101](https://github.com/Demostat101)** - Frontend Developer
 - **Ettu Julius - [@Skibo555](https://github.com/Skibo555)** - Backend Developer
 - **Bashir Umar Idris - [@bash4Dev](https://github.com/bash4dev)** - Frontend Developer
+-**Samuel Ben-David - [@sbendavid](https://github.com/sbendavid)** - Backend Developer
 
 ###
 
