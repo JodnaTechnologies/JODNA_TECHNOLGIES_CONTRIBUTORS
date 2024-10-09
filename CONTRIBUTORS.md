@@ -24,5 +24,9 @@
 - **Francisca Chibuike- [@franciscaa11](https://github.com/franciscaa11)** - Frontend Developer
 - **Sotonye Joe - [@sotonyejoe](https://github.com/sotonyejoe)** - Backend Developer
 - **Vivian Nzemeke - [@vivi](https://github.com/vivinero)** - Backend Developer
-
 - **Okeugo Joshua - [@ManifestJosh](https://github.com/ManifestJosh)** - Mobile Dveloper Intern
+- **Alfred Faith - [@TonyFred-code](https://github.com/TonyFred-code/)** - Frontend Developer
+- **Abdur Rahman - [@codeDevil-op](https://github.com/codeDevil-op)** - Frontend Developer
+- **Ademola Samuel Omikunle - [@Demostat101](https://github.com/Demostat101)** - Frontend Developer
+- **Ettu Julius - [@Skibo555](https://github.com/Skibo555)** - Backend Developer
+- **Bashir Umar Idris - [@bash4Dev](https://github.com/bash4dev)** - Frontend Developer
