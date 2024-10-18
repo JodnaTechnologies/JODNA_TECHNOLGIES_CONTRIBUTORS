@@ -30,6 +30,7 @@
 - **Samuel Ben-David - [@sbendavid](https://github.com/sbendavid)** - Backend Developer
 - **Abiola Ogunsola - [@OgunsolaAbiolaDaniel](https://github.com/OgunsolaAbiolaDaniel)** - Frontend Developer
 - **Umukoro Blessing Oghenekomeno- [@Blessingkeyz](https://github.com/blessingkeyz)** - Frontend Developer
+- **Zakari Adamu- [@Zakariadamu](https://github.com/zakariadamu)** - Frontend Developer
 
 ###
 
